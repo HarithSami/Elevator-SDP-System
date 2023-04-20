@@ -1,5 +1,6 @@
 # SDP Miniature Elevator Project
 This project is a miniature elevator control system developed using an SDP microcontroller. It provides basic functionalities such as stepper and DC motor control, relay testing, PWM control, and more.
+![Picture2](https://user-images.githubusercontent.com/66371106/233225188-f72896d8-9452-41dd-8a47-9e564c1f19c3.jpg)
 
 # Features
 Stepper motor and DC motor control
@@ -44,6 +45,5 @@ The system supports both stepper motor and DC motor control with the ability to 
 The project provides support for a variety of general functions such as ADC, DAC, PWM, and SPI. It includes options to test and display the status of these functions.
 # Final Project (physical Build) and CAD design
 ![Picture1](https://user-images.githubusercontent.com/66371106/233225184-eae96898-68bf-4ea2-844c-2541f38f0af8.jpg)
-![Picture2](https://user-images.githubusercontent.com/66371106/233225188-f72896d8-9452-41dd-8a47-9e564c1f19c3.jpg)
 
 
